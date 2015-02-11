@@ -5,7 +5,7 @@ title: About Me
 permalink: /about/
 ---
 
-Hi There! Thank you for visiting our website. We are Los Angeles Developer Lab. We are Ruby developers with extensive experience using Rails, Sinatra, RubyMotion, JavaScript, HTML/CSS, and more. Contact us today so we can help you meet your project needs.
+Hi There! Thank you for visiting our website. We are Los Angeles Developers Lab. We are Ruby developers with extensive experience using Rails, Sinatra, RubyMotion, JavaScript, HTML/CSS, and more. Contact us today so we can help you meet your project needs.
 
 Give us a call at: (626) 733-3460
                                               
