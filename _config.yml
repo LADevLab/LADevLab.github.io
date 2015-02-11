@@ -37,8 +37,8 @@ google_analytics:
 # Enter your Mailchimp User ID and Campaign ID
 # @TODO: Add in a link for where to find these
 mailchimp:
-  user-id:
-  list-id: 
+  user-id: REPLACEME
+  list-id: REPLACEME
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
