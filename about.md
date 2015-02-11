@@ -9,7 +9,7 @@ Hi There! Thank you for visiting our website. We are Los Angeles Developers Lab.
 
 Give us a call at: (626) 733-3460
                                               
-Send us an email at: [hotero@ladevlab.com](mailto:hotero@ladevlab.com)
+Send us an email at: [general_inquiries@ladevlab.com](mailto:general_inquiries@ladevlab.com)
       
         
 
