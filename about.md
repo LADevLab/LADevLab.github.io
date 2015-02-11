@@ -11,7 +11,7 @@ Hi There! Thank you for visiting our website. We are Los Angeles Developer Labs.
                                             
                                               OR
                                               
-                                  Send us an email at: [hotero@ladevlabs.com](mailto:hotero@ladevlabs.com)
+                                  Send us an email at: [Send me an email](mailto:hotero@ladevlabs.com)
       
         
 
