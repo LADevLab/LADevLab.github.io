@@ -9,5 +9,5 @@ categories:
   - Tech
 ---
 
-Our founding members are proud to announce that we are now officially Los Angeles Develpers Lab, LLC. We are now taking on clients, and we look forward to many prosperous years ahead. 
+Our founding members are proud to announce that we are now officially Los Angeles Developers Lab, LLC. We are now taking on clients, and we look forward to many prosperous years ahead. 
 
